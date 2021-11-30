@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevehuang1220
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Julia
 - 📫 stevehuang1220@gmail.com
 
 <!---
